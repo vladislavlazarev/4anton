@@ -1,0 +1,30 @@
+[
+  {
+    "author": "nastya",
+    "projectName": "Мой первый проект",
+    "desc": "Это мой первый проект, не судите строго",
+    "category": 0,
+    "shortTitle": "Вдохновилась вашим сайтом...",
+    "demoUrl": "https://stackoverflow.com/questions/24348437/mongoose-select-a-specific-field-with-find",
+    "images": ["/images/default-avatar/default-avatar-4.jpg"],
+    "tags": [
+      {"displayValue": "web"},
+      {"displayValue": "css"}
+    ],
+    "mainImageIndex": 0
+  },
+  {
+    "author": "nastya",
+    "projectName": "Мой второй проект",
+    "desc": "Это мой второй проект, не судите строго",
+    "category": 0,
+    "shortTitle": "Вдохновилась вашим сайтом...",
+    "demoUrl": "https://stackoverflow.com/questions/24348437/mongoose-select-a-specific-field-with-find",
+    "images": ["/images/default-avatar/default-avatar-4.jpg"],
+    "tags": [
+      {"displayValue": "web"},
+      {"displayValue": "css"}
+    ],
+    "mainImageIndex": 0
+  }
+]
